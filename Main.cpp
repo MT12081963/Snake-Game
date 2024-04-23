@@ -1,5 +1,5 @@
 #include "SingleGame.h"
-
+//test comment
 int main(void) {
     srand(time(NULL));
     SingleGame g{ 10 };
