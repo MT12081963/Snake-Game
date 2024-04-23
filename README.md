@@ -1,2 +1,2 @@
 # Snake-Game
-implementacja gry "Snake",aplikacja konsolowa
+Snake game implementation. Console game.
